@@ -1,0 +1,8 @@
+[ENGINE]
+
+#DO NOT CHANGE THIS.
+Response File Version=1.0.0.0.0
+
+[GENERIC]
+ORACLE_HOME=/u01/app/oraodi/middleware/12.2.1.4
+INSTALL_TYPE=Enterprise Installation
